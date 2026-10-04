@@ -6,7 +6,7 @@ I am a 16-year-old, totally self-taught Full-Stack AI and Web Developer currentl
 * 🧠 **Self-Taught & Shipping:** I learn by building. I've independently mastered full-stack development and AI engineering, consistently shipping real-world applications.
 * 🤖 **AI & Agentic Workflows:** I focus on building robust multi-agent systems, RAG pipelines, and LLM-powered applications.
 * 💻 **Web Architecture:** I develop scalable, custom interfaces from scratch using Next.js, React, and Python-based backends without relying on cookie-cutter templates.
-* 🌱 **Always Evolving:** Currently exploring deeper architectures in AI agents and advanced Next.js server-side features.
+* 🌱 **Always Evolving:** Currently exploring deeper architectures in AI agents and DevOps.
 
 ### 🛠️ Tech Stack
 * **AI & Data Science:** Python, LangChain, Groq, Pinecone, Streamlit, HuggingFace
