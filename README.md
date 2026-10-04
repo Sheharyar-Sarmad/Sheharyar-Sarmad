@@ -11,7 +11,7 @@ I am a 16-year-old, totally self-taught Full-Stack AI and Web Developer currentl
 ### 🛠️ Tech Stack
 * **AI & Data Science:** Python, LangChain, Groq, Pinecone, Streamlit, HuggingFace
 * **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, Custom CSS, Tailwind, GSAP
-* **Backend:** FastAPI, Node.js, PHP
+* **Backend:** FastAPI, Node.js, Express.js
 * **Databases:** PostgreSQL, MySQL, Firebase (Firestore, Auth)
 
 ### 🏆 Featured Projects
