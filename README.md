@@ -9,10 +9,10 @@ I am a 16-year-old, totally self-taught Full-Stack AI and Web Developer currentl
 * 🌱 **Always Evolving:** Currently exploring deeper architectures in AI agents and DevOps.
 
 ### 🛠️ Tech Stack
-* **AI & Data Science:** Python, LangChain, Groq, Pinecone, Streamlit, HuggingFace
-* **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, Custom CSS, Tailwind, GSAP
+* **AI & Data Science:** Python, Numpy, Pandas, Malplotlib, Seaborn, Skicit-Learn, Tensorflow, LangChain, Langgraph, Groq, OpenAI, Mistral, Pinecone, ChromaDB, FAISS, Streamlit, HuggingFace
+* **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, Custom CSS, Tailwind, GSAP, Three.js, FramerMotion, Shadecn, SEO principles
 * **Backend:** FastAPI, Node.js, Express.js
-* **Databases:** PostgreSQL, MySQL, Firebase (Firestore, Auth)
+* **Databases:** PostgreSQL, MongoDB, Redis, Neon, Supabase
 
 ### 🏆 Featured Projects
 
