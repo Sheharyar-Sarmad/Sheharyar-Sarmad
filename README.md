@@ -21,7 +21,7 @@ I am a 16-year-old, totally self-taught Full-Stack AI and Web Developer currentl
 | **[Inquira](https://github.com/Sheharyar-Sarmad/Inquira)** | AI-powered multi-agent research system that searches the web, explores academic papers, and generates evidence-based reports. | TypeScript, Next.js, LangChain, Groq |
 | **[City-Intelligence-System](https://github.com/Sheharyar-Sarmad/City-Intelligence-System)** | Autonomous AI intelligence system with live weather, news tools, and human-in-the-loop approval workflows. | Python, LangChain, Streamlit, OpenWeather, Tavily |
 | **[Query-Mentor](https://github.com/Sheharyar-Sarmad/Query-Mentor)** | AI-powered SQL mentor using RAG to write, explain, and simulate queries grounded in real docs without needing a database. | TypeScript, Next.js, FastAPI, Pinecone, Groq |
-| **[ClipSage](https://github.com/Sheharyar-Sarmad/ClipSage)** | Full-stack multimodal AI app for chatting with and summarizing images, audio, files, and web links. | Python, LangChain, FastAPI, Next.js |
+| **[ClipSage](https://github.com/Sheharyar-Sarmad/ClipSage)** | Full-stack multimodal AI app for chatting with and summarizing images, audio, files. | Python, LangChain, FastAPI, Next.js |
 
 ### 📫 Let's Connect
 * **LinkedIn:** [Sheharyar Sarmad](https://www.linkedin.com/in/sheharyar-sarmad-9b7736289/)
